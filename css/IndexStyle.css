@@ -1,0 +1,76 @@
+body {
+    background-color: tan;
+}
+
+h1{
+    color: black;
+    font-family: "dream-big-narrow", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+}
+h3{
+    font-family: "dream-big-regular", sans-serif;
+    font-weight: 350;
+    font-style: normal;
+    font-size: 35px;
+
+}
+
+h4{
+    font-family: "dream-big-narrow", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    
+}
+
+h5{
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.recipe{
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 17px;
+}
+.description{
+    font-family: "pt-serif-pro-narrow", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 17px;
+}
+.container{
+    height: 100px;
+    width: 800px;
+    background-color: #8E4700;
+}
+
+.steps{
+    font-family: "futura-pt-condensed", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+}
+.recipe{
+    height: 300px;
+    width: 275px;
+    background-color: #8E4700;
+
+}
+
+.Nutritional{
+    height: 125px;
+    width: 800px;
+    background-color: #8E4700;
+    text-align: center;
+        font-family: "futura-pt-condensed", sans-serif;
+        font-weight: 400;
+        font-style: italic;
+        font-size: 15px;
+        color: goldenrod;
+}
